@@ -4,7 +4,7 @@
 
 int main()
 {
-	char a,b;
+	char a,b,c,d;
 	
 	fri();
 	printf("hello world\n");
