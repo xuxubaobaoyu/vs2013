@@ -4,3 +4,7 @@ void a()
 {
 	printf("hello world");
 }
+void b()
+{
+	printf("hello world");
+}
