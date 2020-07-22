@@ -5,6 +5,7 @@
 int main()
 {
 	char a,b,c,d,e;
+	char str[N];
 	
 	fri();
 	printf("hello world\n");
